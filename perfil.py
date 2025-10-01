@@ -1,7 +1,6 @@
 from datetime import datetime
 
 def pedir_nombre_y_anio_nacimiento():
-    anio_actual = datetime.now().year
     nombre = input("Introduzca su nombre: ")
 
     try:
@@ -10,7 +9,7 @@ def pedir_nombre_y_anio_nacimiento():
         print("Debes introducir un número")
         return
     
-    edad = anio_actual - anio_nacimiento
+    edad = datetime.now().year - anio_nacimiento
     if edad < 0:
         raise ValueError("Tu año de nacimiento no puede ser mayor al año actual")
     
