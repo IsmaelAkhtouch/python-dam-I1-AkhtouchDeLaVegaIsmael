@@ -5,3 +5,5 @@ Explicame como manejar errores en python y dame un ejemplo con un código que la
 Explicame paso a paso como lanzar un error de forma personalizada, por ejemplo si un valor es negativo
 
 Explícame de forma detallada qué debo hacer para acceder al año actual en python
+
+explícame de forma detallada qué debo hacer para acceder al año actual en python
