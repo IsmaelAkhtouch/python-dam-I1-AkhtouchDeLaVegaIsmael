@@ -1,3 +1,7 @@
 Prompts:
+
 Explicame como manejar errores en python y dame un ejemplo con un código que lance un error en caso de que no se introduzca un valor de tipo númerico en un prompt
-explicame paso a paso como lanzar un error de forma personalizada, por ejemplo si un valor es negativo
+
+Explicame paso a paso como lanzar un error de forma personalizada, por ejemplo si un valor es negativo
+
+Explícame de forma detallada qué debo hacer para acceder al año actual en python
