@@ -9,4 +9,3 @@ while True:
         break
     except ValueError:
         print("Debes introducir un número")
-        continue
