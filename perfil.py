@@ -8,8 +8,9 @@ def pedir_nombre_y_anio_nacimiento():
         anio_nacimiento = int(input("Introduce tu año de nacimiento: "))
     except ValueError:
         print("Debes introducir un número")
+        return
+    
     edad = anio_actual - anio_nacimiento
-
     if edad < 0:
         raise ValueError("Tu año de nacimiento no puede ser mayor al año actual")
     
