@@ -1,0 +1,15 @@
+Explicame de forma detallada como dividir una cadena de tipo str en números tipo float separados por uina coma y almacenarlos en una variable de tipo lista.
+
+Escribe y explica un programa en Python llamado cadenas.py que:
+Reciba una cadena de texto ingresada por el usuario.
+Cuente cuántas vocales tiene la cadena.
+Cuente cuántas consonantes tiene la cadena.
+Cuente cuántas letras mayúsculas hay en la cadena.
+Muestre el número total de caracteres de la cadena (incluyendo espacios y signos).
+Imprima estos resultados al usuario.
+
+
+Crea un programa en Python llamado primo.py que pida al usuario un número entero y le indique si ese número es primo o no que pida al usuario que ingrese un número
+ y muestre un mensaje claro diciendo si el número es primo o no.
+
+ 

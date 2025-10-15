@@ -1,0 +1,10 @@
+Crea un programa en Python llamado analisis_notas.py que permita al usuario introducir una lista de calificaciones separadas por comas
+que incluya:
+número total de notas
+Media aritmética
+Porcentaje de aprobados (notas ≥ 5).
+Porcentaje de sobresalientes (notas ≥ 9).
+Nota más repetida
+Un mensaje final basado en la media
+
+haz la moda sin usar la libreria counter
