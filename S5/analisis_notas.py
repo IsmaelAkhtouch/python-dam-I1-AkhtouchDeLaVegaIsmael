@@ -28,6 +28,7 @@ sobresalientes = len([n for n in notas if n >= 9])
 # {clave:valor}
 frecuencias = {}
 for nota in notas:
+    nota = round(nota,0)
     if nota in frecuencias:
         frecuencias[nota] += 1
     else:
